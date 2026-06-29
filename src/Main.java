@@ -5,5 +5,10 @@ public class Main {
         for (int i = 0; i <= 30; i++) {
             System.out.println(i);
         }
+
+        // Task 2
+        for (int i = 30; i >= 0; i--) {
+            System.out.println(i);
+        }
     }
 }
